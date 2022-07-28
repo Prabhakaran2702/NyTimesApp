@@ -1,0 +1,85 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/prabhakarand/Desktop/development/NYTimesApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/prabhakarand/.gradle/caches/transforms-3/e81895d2b7befa618c7c2c8efe0cefca/transformed/material-1.6.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,5,8,13,17,20,23,26,31,34,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,271,481,801,1038,1245,1452,1655,1987,2189,2454",
+                        "endLines": "4,7,12,16,19,22,25,30,33,37,41",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "266,476,796,1033,1240,1447,1650,1982,2184,2449,2722"
+                    },
+                    "to": {
+                        "startLines": "78,81,84,89,93,96,99,102,107,110,114",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4883,5099,5309,5629,5866,6073,6280,6483,6815,7017,7282",
+                        "endLines": "80,83,88,92,95,98,101,106,109,113,117",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "5094,5304,5624,5861,6068,6275,6478,6810,7012,7277,7550"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakarand/.gradle/caches/transforms-3/5de13e07a9c68f80c4b0549ebf09b891/transformed/appcompat-1.4.2/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,32,46,47,48,51,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "618,753,888,963,1050,1934,2830,2949,3076,3298,3522,3637,3744,3857",
+                        "endLines": "14,15,16,17,31,45,46,47,50,54,55,56,57,61",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "748,883,958,1045,1929,2825,2944,3071,3293,3517,3632,3739,3852,4082"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakarand/.gradle/caches/transforms-3/b3b93d91fe5cc3f0218872be12a92cf6/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "62",
+                        "startColumns": "4",
+                        "startOffsets": "4087",
+                        "endLines": "64",
+                        "endColumns": "12",
+                        "endOffsets": "4232"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakarand/Desktop/development/NYTimesApp/app/src/main/res/values-v23/styles.xml",
+                    "from": {
+                        "startLines": "3,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,620",
+                        "endLines": "14,28",
+                        "endColumns": "12,12",
+                        "endOffsets": "614,1261"
+                    },
+                    "to": {
+                        "startLines": "2,65",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,4237",
+                        "endLines": "13,77",
+                        "endColumns": "12,12",
+                        "endOffsets": "613,4878"
+                    }
+                }
+            ]
+        }
+    ]
+}
